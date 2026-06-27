@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quy Thai Quang</title><link>https://thaiquangquy.github.io/</link><description>Recent content on Quy Thai Quang</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Quy Thai Quang</copyright><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thaiquangquy.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Why I Started Building in Public</title><link>https://thaiquangquy.github.io/posts/building-in-public/</link><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate><guid>https://thaiquangquy.github.io/posts/building-in-public/</guid><description>&lt;p&gt;Building in public is uncomfortable. You ship something half-baked and people see it. You write down a thought before it&amp;rsquo;s fully formed and it&amp;rsquo;s there, forever, attached to your name. That friction is the point.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;The default is to hide
+ &lt;div id="the-default-is-to-hide" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-default-is-to-hide" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Most people — myself included, for a long time — treat their work like a draft. Always one more iteration before it&amp;rsquo;s ready to show. Always one more feature before the product is good enough. Always one more revision before the post is worth publishing.&lt;/p&gt;</description></item><item><title>Boring Tech Wins</title><link>https://thaiquangquy.github.io/posts/boring-tech-wins/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><guid>https://thaiquangquy.github.io/posts/boring-tech-wins/</guid><description>&lt;p&gt;Every year a new framework launches with the promise of solving the fundamental problems of software development. Every year engineers adopt it with enthusiasm. Every year the same problems resurface, just in a new form.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;The appeal of new
+ &lt;div id="the-appeal-of-new" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-appeal-of-new" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;New technology is exciting because it represents possibility. Before you&amp;rsquo;ve built anything real with a new tool, you can project onto it all the things you wish your current stack could do. The ergonomics feel better because you haven&amp;rsquo;t hit the edges yet.&lt;/p&gt;</description></item><item><title>On Learning Slowly</title><link>https://thaiquangquy.github.io/posts/on-learning-slowly/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://thaiquangquy.github.io/posts/on-learning-slowly/</guid><description>&lt;p&gt;There&amp;rsquo;s a genre of content online that frames learning as an optimization problem. Learn React in 30 days. Master system design in a weekend. The implicit premise is that faster is always better.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been thinking about whether this is true.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Speed is sometimes the wrong variable
+ &lt;div id="speed-is-sometimes-the-wrong-variable" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#speed-is-sometimes-the-wrong-variable" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;When I&amp;rsquo;ve tried to learn something fast — really compress it into a short window — I tend to end up with a shallow model that breaks under pressure. I can answer the interview question but I can&amp;rsquo;t debug the production incident.&lt;/p&gt;</description></item></channel></rss>
